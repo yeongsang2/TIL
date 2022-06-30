@@ -13,6 +13,9 @@
 * [연관관계 매핑 기초](./JPA/relational_mapping.md)
 <hr>
 
+# http-web-basic
+* [HTTP기본](./http-basic/http_basic)
+
 # spring 
 
 
