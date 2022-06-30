@@ -14,7 +14,7 @@
 <hr>
 
 # http-web-basic
-* [HTTP기본](./http-basic/http-basic)
+* [HTTP기본](./http-basic/http_basic.md)
 
 # spring 
 
