@@ -10,7 +10,7 @@
 <hr>
 
 # JPA
-
+* [연관관계 매핑 기초](./JPA/relational_mapping.md)
 <hr>
 
 # spring 
