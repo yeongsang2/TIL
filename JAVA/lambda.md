@@ -28,7 +28,7 @@
 * 구현
 
 
-
+```
     pulic interface Lambda(){
 
 	public void add(int x, int y);	
@@ -38,11 +38,12 @@
 
     Lambda lambDa = (s, v) -> { return s +v } //일종의 구체화?
     int a = lambDa.add(1,2);
+```
 * 매개변수로 전달하는 람다식
   * 람다식을 변수에 대입하여 매개변수로 전달 
     * 이때 전달되는 매개변수의 자료형은 인터페이스
 
-
+```
     interface PrintString{
         void showString(String str);
     }
@@ -56,10 +57,11 @@
         p.showString("hello lambda_2");
     }
     }
+```
 * 반환 값으로 쓰이는 람다식
   * 메서드의 반환형을 람다식의 인터페이스로 구현
 
-
+```
     public static PrintString returnString(){
         return s -> System.out.println(s + "world");
     }
@@ -69,3 +71,4 @@
     PrintString reStr = returnString();
     reStr.showString("hello");
     }
+```
