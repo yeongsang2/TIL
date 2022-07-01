@@ -7,6 +7,7 @@
 # JAVA
 * [lambda](./JAVA/lambda.md)
 * [stream](./JAVA/stream.md)
+* [exception](./JAVA/exception.md)
 <hr>
 
 # JPA
