@@ -56,7 +56,7 @@
 * 지금은 HTTP 지속 연결(Persistent Connections)로 문제 해결
 
 # HTTP 메시지
-![img.png](img.png)
+![img.png](img/img.png)
 #시작 라인
 ## 요청 메시지
 * start-line = request-line / status-line
@@ -69,7 +69,7 @@
 * 서버가 수행해야 할 동작 지정
   * GET:리소스 조회
   * POST:요청 내역 처리
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 ## 요청 메시지 -요청 대상
 * absoulte-path[?query] (절대경로[?쿼리])
 * 절대경로 = "/"로 시작하는 경로
@@ -86,9 +86,9 @@
   * 500 : 서버 내부 오류
 ## HTTP 헤더  
 
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 ## HTTP 헤더 용도
-![img_3.png](img_3.png)
+![img_3.png](img/img_3.png)
 * HTTP 전송에 필요한 모든 부가 정보
   * ex) body내용, 크기, 인증, 클라이언트 정보,서버 정보,,,etc
 ## HTTP 메시지 바디

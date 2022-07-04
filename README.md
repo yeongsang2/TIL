@@ -19,6 +19,7 @@
 
 # http-web-basic
 * [HTTP기본](./http-basic/http_basic.md)
+* [HTTP메서드](./http-basic/http_method.md)
 
 # spring 
 
