@@ -8,6 +8,7 @@
 * [lambda](./JAVA/lambda.md)
 * [stream](./JAVA/stream.md)
 * [exception](./JAVA/exception.md)
+* [serializable](./JAVA/serializable.md)
 <hr>
 
 # JPA
