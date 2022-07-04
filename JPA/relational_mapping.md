@@ -16,7 +16,7 @@
 * 회원과 팀은 다대일 관계다.
 
 ## 객체를 테이블에 맞추어 모델링(연관관계가 없는 객체)
-![img.png](img.png)
+![img.png](img/img.png)
 
 ## 객체를 테이블에 맞추어 모델링(참조 대신에 외래 키를 그대로 사용)
 ```
@@ -58,7 +58,7 @@ private String name;
 * 테이블과 객체 사이에는 이런 큰 간격이 존재
 
 ## 단방향 연관관계
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 * Team의 참조값을 그대로 가져옴
 ```dtd
 @Entity
@@ -75,7 +75,7 @@ private String name;
  private Team team;
 ```
 * team과 team_id(FK)를 연관관계 매핑
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 ## 양방향 연관관계와 연관관계의 주인
 <hr>
 ## 양방향 매핑
@@ -120,7 +120,7 @@ private String name;
   * 팀 -> 회원 연관관계 1개(단방향)
 * 테이블 연관관계 = 1개
   * 회원 <-> 팀의 연관관계 1개(양방향) 
-![img_4.png](img_4.png)
+![img_4.png](img/img_4.png)
 ## 객체의 양방향 관계
 * 객체의 양방향 관계는 사실 양방향 관계가 아니라 서로 다른 단방향 관계 2개임
 * 객체를 양방향으로 참조하려면 단방향 연관관계 2개를 만들어야 함
@@ -147,7 +147,7 @@ FROM TEAM T
 JOIN MEMBER M ON T.TEAM_ID = M.TEAM_ID
 ```
 ## 둘 중 하나로 외래 키를 관리해야 한다
-![img_5.png](img_5.png)
+![img_5.png](img/img_5.png)
 ## 연관관계의 주인(Owner)
 ### 양방향 매핑 규칙
 * 객체의 두 간계중 하나를 연관관계의 주인으로 지정
@@ -159,7 +159,7 @@ JOIN MEMBER M ON T.TEAM_ID = M.TEAM_ID
 * 외래 키가 있는 곳을 주인으로 정해라
 * db에 N(다)쪽이 무조건 연관관계의 주인
 * 여기서는 Member.team이 연관관계의 주인
-* ![img_6.png](img_6.png)
+* ![img_6.png](img/img_6.png)
 ## 양방향 매핑시 가장 많이 하는 실수(연관관계의 주인에 값을 입력 x)
 ```dtd
 Team team = new Team();

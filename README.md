@@ -14,6 +14,7 @@
 # JPA
 * [연관관계 매핑 기초](./JPA/relational_mapping.md)
 * [다양한 연관관계 매핑](./JPA/relation_mapping_various.md)
+* [고급 매핑](./JPA/inheritacne_mapping.md)
 <hr>
 
 # http-web-basic
