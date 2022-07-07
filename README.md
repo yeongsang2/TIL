@@ -16,6 +16,7 @@
 * [다양한 연관관계 매핑](./JPA/relation_mapping_various.md)
 * [고급 매핑](./JPA/inheritacne_mapping.md)
 * [프록시와 연관관계 관리](./JPA/proxy_relational_management.md)
+* [값타입](JPA/value_type.md)
 <hr>
 
 # http-web-basic
