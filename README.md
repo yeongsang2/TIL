@@ -18,6 +18,7 @@
 * [프록시와 연관관계 관리](./JPA/proxy_relational_management.md)
 * [값타입](JPA/value_type.md)
 * [객체지향 쿼리 언어1 - 기본 문법](JPA/jpql_basic.md)
+* [객체지향 쿼리 언어2 - 중급 문법](JPA/jpql_middle.md)
 <hr>
 
 # http-web-basic
