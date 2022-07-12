@@ -24,6 +24,7 @@
 # http-web-basic
 * [HTTP기본](./http-basic/http_basic.md)
 * [HTTP메서드](./http-basic/http_method.md)
+* [HTTP메서드활용](./http-basic/http_method_use.md)
 
 # spring 
 
