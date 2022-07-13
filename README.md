@@ -26,6 +26,7 @@
 * [HTTP메서드](./http-basic/http_method.md)
 * [HTTP메서드활용](./http-basic/http_method_use.md)
 * [HTTP상태코드](./http-basic/http_status_code.md)
+* [HTTP헤더 - 일반 헤더](./http-basic/http_header1.md)
 
 # spring 
 
