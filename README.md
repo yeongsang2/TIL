@@ -1,4 +1,4 @@
-# TIL
+    # TIL
 - 오늘 배운것을 정리함
 - 천리길도 한 걸음 부터^.^
 
@@ -27,6 +27,7 @@
 * [HTTP메서드활용](./http-basic/http_method_use.md)
 * [HTTP상태코드](./http-basic/http_status_code.md)
 * [HTTP헤더 - 일반 헤더](./http-basic/http_header1.md)
+* [HTTP헤더 - 헤더2](./http-basic/http_header2.md)
 
 # spring 
 
