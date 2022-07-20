@@ -6,7 +6,7 @@
 
 ```java
     BufferedReader in = new BufferedReader(new FileReader("foo.in"));
-    BufferedReader in = new BufferedReader(System.in) //입력받을때
+    BufferedReader in = new BufferedReader(new InputStreameReader(System.in)) //입력받을때
 ```
 
 #### Constructors
