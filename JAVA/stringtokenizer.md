@@ -37,3 +37,5 @@
 | objects          | nextElement() <br> 다음 토큰을 반환 (object로 반환)                           |
 | string           | nextToken() <br> 다음 토큰을 반환                                          |
 | string           | nextToken(String delim) <br> delim 기준으로 다음 토큰 반환                    |
+
+https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html
