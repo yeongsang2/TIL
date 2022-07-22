@@ -32,7 +32,8 @@
 * [HTTP헤더 - 헤더2](./http-basic/http_header2.md)
 
 # 스프링 핵심원리 - 기본편
-* [객체 지향 설계와 스프링](./springbasic)
+* [객체 지향 설계와 스프링](./springbasic/oop_spring.md)
+* [스프링 핵심 원리 이해1-예제 만들기](./springbasic/spring_core_ex1.md)
 
 
 
