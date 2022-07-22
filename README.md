@@ -34,7 +34,7 @@
 # 스프링 핵심원리 - 기본편
 * [객체 지향 설계와 스프링](./springbasic/oop_spring.md)
 * [스프링 핵심 원리 이해1-예제 만들기](./springbasic/spring_core_ex1.md)
-
+* [스프링 핵심 원리 이해2-스프링으로 전환하기](./springbasic/spring_core_ex2.md)
 
 
 # 백준
