@@ -46,6 +46,7 @@
 * [2267:단지번호붙이기](./baekjoon/boj_2667.md)
 * [1083:감소하는 수](./baekjoon/boj_1083.md)
 * [1062:가르침](./baekjoon/boj_1062.md)
+* [17070:파이프1](./baekjoon/boj_17070.md)
 
 
 
