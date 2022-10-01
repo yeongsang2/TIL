@@ -41,6 +41,7 @@
 * [컴포넌트 스캔](./springbasic/component_scan.md)
 * [의존관계 자동 주입](./springbasic/dependency_injection_auto.md)
 * [빈 생명주기 콜백](./springbasic/bean_lifecycle_callback.md)
+* [빈 스코프](./springbasic/bean_scope.md)
 # 백준
 * [14888:연산자 끼워넣기](./baekjoon/boj_14888.md)
 * [14719:빗물](./baekjoon/boj_14719.md)
