@@ -52,7 +52,7 @@ class Person implements Serializable{
        
 ```
 
-## traient 예약어
+## trasient 예약어
 * 직렬화 대상이 되는 클래스는 모든 인스턴스 변수가 직렬화되고 복원됨
 * 특정 변수는 직렬화하고 싶지 않을 떄 사용
 * 자료형의 기본 값으로 저장(객체인 경우 null)
