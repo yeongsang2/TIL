@@ -54,6 +54,9 @@
 * [createing first app](./quarkus/creatingfirstapp.md)
 * [building natvie Executable](./quarkus/buildingNativeExecutable.md)
 
+# AWS
+* [aws computing power](./aws/aws-computing-power.md)
+
 # 백준
 * [14888:연산자 끼워넣기](./baekjoon/boj_14888.md)
 * [14719:빗물](./baekjoon/boj_14719.md)
