@@ -14,7 +14,7 @@
 
 ### 인터넷 설비에 대한 요구사항
 
-![Screenshot 2023-05-16 at 10.22.05 AM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F1k%2Fp671413n6pl494gztz3p7cbm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_iSLqJX%2FScreenshot%202023-05-16%20at%2010.22.05%20AM.png)
+![img_5.png](img_5.png)
 
 1. 네트워크 사이의 링크 제어, 적어도 물리와 링크 제어 연결이 필요
 2. 다른 네트워크에 있는 프로세스 사이에서 경로배정을 하고 데이터를 전달함
@@ -42,7 +42,7 @@ IP는 비연결 또는 데이터그램 서비스를 종단 시스템 사이에 �
 * 비연결 인터넷 서비스를 매우 튼튼하게 만들 수 있음
 * 불필요한 추가 부담이 없기 때문에 비연결 수송 프로토콜에 가장 좋음
 
-![Screenshot 2023-05-16 at 10.52.04 AM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F1k%2Fp671413n6pl494gztz3p7cbm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_zv0QHh%2FScreenshot%202023-05-16%20at%2010.52.04%20AM.png)
+![img_6.png](img_6.png)
 
 이 그림은 한 LAN(네트워크 1)의 호스트 A와 다른 LAN(네트워크 2)의 호스트 B 사이에 WAN을 통한 데이터 교환을 위한 인터넷 프로토콜(IP)의 동작을 그리고 있습니다. 그림은 프로토콜 구조와 데이터 단위의 형식을 단계별로 보여줍니다.
 
@@ -182,7 +182,7 @@ ICMP 메시지 헤더
 * 체크섬(16비트) : ICMP 메시지 전체의 체크셈이다. IP와 같은 알고리즘을 사용
 * 매개변수(32비트) : 좀 더 긴 매개변수를 규정하기 위해 사용
 
-![Screenshot 2023-05-16 at 3.08.36 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F1k%2Fp671413n6pl494gztz3p7cbm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_bAzGrn%2FScreenshot%202023-05-16%20at%203.08.36%20PM.png)
+![img_4.png](img_4.png)
 
 ##### 주소 해결 프로토콜
 IP 주소를 서브네트워크로 연결하기 위한 접근방법
