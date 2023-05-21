@@ -19,6 +19,7 @@
 * [프로토콜 구조, TCP/IP](./computer-network/protocol-TCP_IP.md)
 * [무선 LAN](./computer-network/lan.md)
 * [인터넷 프로토콜](./computer-network/internet-protocol.md)
+* [라우팅](./computer-network/routing.md)
 
 <hr>
 
