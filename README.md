@@ -20,6 +20,7 @@
 * [무선 LAN](./computer-network/lan.md)
 * [인터넷 프로토콜](./computer-network/internet-protocol.md)
 * [라우팅](./computer-network/routing.md)
+* [혼잡](./computer-network)
 
 <hr>
 
