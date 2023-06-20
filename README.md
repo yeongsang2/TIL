@@ -69,6 +69,9 @@
 * [17070:파이프1](./baekjoon/boj_17070.md)
 * [13549:숨바꼭질3](./baekjoon/boj_13549.md)
 
+# LLM 
+* [babyAgi](https://velog.io/@yeongsang2/babyagi-Agent-ai)
+
 
 
 
